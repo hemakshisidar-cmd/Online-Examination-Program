@@ -129,6 +129,14 @@ online_exam.py   - the complete program
 README.md        - project documentation
 ```
 
+## Project Mentor
+
+*Mentored by:* [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+
+*GitHub:* [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+
+*Role:* Python Mentor / Technical Guide
+
 ## Notes
 
 - The questions in the program are basic Python questions written to match the given answer key. They can be changed in the `QUESTIONS` list, but if you change them, also update the answers so the key stays the same.
